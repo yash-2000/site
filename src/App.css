@@ -1,0 +1,170 @@
+.dash {
+  font-weight: Bold;
+  color: black;
+  margin: 26rem;
+  margin-top: 3rem;
+}
+
+.dashboard-card {
+  flex: content;
+  background-color: lightgreen;
+  padding: 1rem;
+  height: 5%;
+  width: 5%;
+  border-radius: 1rem;
+  align-content: stretch;
+  margin-left: 1rem;
+  margin-top: 5rem;
+}
+
+.dashboard-card h2 {
+  font-size: small;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.dashboard-card ul {
+  list-style: none;
+  font-weight: bold;
+  margin: 0;
+  margin-left: 0rem;
+  padding: 0;
+}
+
+.dashboard-card1 {
+  flex: auto;
+  background-color: rgb(243, 234, 203);
+  padding: 1rem;
+  height: 5%;
+  width: 10%;
+  border-radius: 1rem;
+  align-content: center;
+  margin-left: 1rem;
+  margin-top: 5rem;
+}
+
+.dashboard-card1 h2 {
+  font-size: small;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.dashboard-card1 ul {
+  list-style: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-card2 {
+  flex: auto;
+  background-color: rgb(238, 213, 223);
+  padding: 1rem;
+  height: 5%;
+  width: 10%;
+  border-radius: 1rem;
+  align-content: center;
+  margin-left: 1rem;
+  margin-top: 5rem;
+}
+
+.dashboard-card2 h2 {
+  font-size: small;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.dashboard-card2 ul {
+  list-style: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-card3 {
+  flex: auto;
+  background-color: rgb(225, 213, 238);
+  padding: 1rem;
+  height: 5%;
+  width: 10%;
+  border-radius: 1rem;
+  align-content: center;
+  margin-left: 1rem;
+  margin-top: 5rem;
+}
+
+.dashboard-card3 h2 {
+  font-size: small;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.dashboard-card3 ul {
+  list-style: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+
+.dashboard-card4 {
+  flex: auto;
+  background-color: rgb(211, 241, 73);
+  padding: 1rem;
+  height: 5%;
+  width: 10%;
+  border-radius: 1rem;
+  align-content: center;
+  margin-left: 30rem;
+  margin-top: 5rem;
+  
+}
+
+.dashboard-card4 h2 {
+  font-size: small;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.dashboard-card4 ul {
+  list-style: none;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+
+.schedule-card {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+  border-radius: 0.5rem;
+}
+
+.schedule-card h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+.schedule-card ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.schedule-card li {
+  
+  margin-bottom: 0.5rem;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.wrap {
+  display: flex;
+}

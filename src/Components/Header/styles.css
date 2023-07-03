@@ -1,0 +1,10 @@
+.header {
+    height: 2rem;
+    width: 100vw;
+    background-color: darkblue;
+    display: none; /* Hide the header by default */
+
+    @media (max-width: 768px) {
+        display: block;
+    }
+}

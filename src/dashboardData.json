@@ -1,0 +1,20 @@
+[
+    {
+     "id": 1,
+    "totalRevenue": 2129430
+   },
+
+  {
+    "id": 2,
+    "totalLikes": 5000
+  },
+  {
+    "id": 3,
+    "totalUsers": 400
+  },
+  {
+    "id": 4,
+    "totalTransactions": 1200
+  }
+]
+
